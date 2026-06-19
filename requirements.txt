@@ -13,3 +13,6 @@ pymupdf
 pydantic
 
 tiktoken
+
+psutil
+torch
