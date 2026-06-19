@@ -1,8 +1,14 @@
+gradio
+fastapi
+uvicorn
+
+langgraph
 langchain
 langchain-community
 langchain-core
 langchain-chroma
 langchain-ollama
+langchain-huggingface
 
 chromadb
 
@@ -11,8 +17,6 @@ sentence-transformers
 pymupdf
 
 pydantic
+pydantic-settings
 
 tiktoken
-
-psutil
-torch
